@@ -1,0 +1,5 @@
+c:\users\mtgro\documents\visual studio 2015\Projects\ArraysAndLists\ArraysAndLists\bin\Debug\ArraysAndLists.exe
+c:\users\mtgro\documents\visual studio 2015\Projects\ArraysAndLists\ArraysAndLists\bin\Debug\ArraysAndLists.pdb
+c:\users\mtgro\documents\visual studio 2015\Projects\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.csprojResolveAssemblyReference.cache
+c:\users\mtgro\documents\visual studio 2015\Projects\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.exe
+c:\users\mtgro\documents\visual studio 2015\Projects\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.pdb
