@@ -1,0 +1,5 @@
+c:\users\mtgro\documents\visual studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\obj\Debug\ConsoleApplication6.csprojResolveAssemblyReference.cache
+c:\users\mtgro\documents\visual studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+c:\users\mtgro\documents\visual studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+c:\users\mtgro\documents\visual studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
+c:\users\mtgro\documents\visual studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb
