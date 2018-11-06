@@ -1,0 +1,4 @@
+c:\users\mtgro\documents\visual studio 2015\Projects\ShippingProject\ShippingProject\bin\Debug\ShippingProject.exe
+c:\users\mtgro\documents\visual studio 2015\Projects\ShippingProject\ShippingProject\bin\Debug\ShippingProject.pdb
+c:\users\mtgro\documents\visual studio 2015\Projects\ShippingProject\ShippingProject\obj\Debug\ShippingProject.exe
+c:\users\mtgro\documents\visual studio 2015\Projects\ShippingProject\ShippingProject\obj\Debug\ShippingProject.pdb
