@@ -1,0 +1,5 @@
+C:\Users\mtgro\Documents\Visual Studio 2015\Projects\Math\Math\bin\Debug\Math.exe
+C:\Users\mtgro\Documents\Visual Studio 2015\Projects\Math\Math\bin\Debug\Math.pdb
+C:\Users\mtgro\Documents\Visual Studio 2015\Projects\Math\Math\obj\Debug\Math.csprojResolveAssemblyReference.cache
+C:\Users\mtgro\Documents\Visual Studio 2015\Projects\Math\Math\obj\Debug\Math.exe
+C:\Users\mtgro\Documents\Visual Studio 2015\Projects\Math\Math\obj\Debug\Math.pdb
