@@ -1,0 +1,4 @@
+c:\users\mtgro\documents\visual studio 2015\Projects\Math2\Math2\bin\Debug\Math2.exe
+c:\users\mtgro\documents\visual studio 2015\Projects\Math2\Math2\bin\Debug\Math2.pdb
+c:\users\mtgro\documents\visual studio 2015\Projects\Math2\Math2\obj\Debug\Math2.exe
+c:\users\mtgro\documents\visual studio 2015\Projects\Math2\Math2\obj\Debug\Math2.pdb
