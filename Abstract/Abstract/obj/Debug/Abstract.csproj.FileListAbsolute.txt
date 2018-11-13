@@ -1,0 +1,4 @@
+c:\users\mtgro\documents\visual studio 2015\Projects\Abstract\Abstract\bin\Debug\Abstract.exe
+c:\users\mtgro\documents\visual studio 2015\Projects\Abstract\Abstract\bin\Debug\Abstract.pdb
+c:\users\mtgro\documents\visual studio 2015\Projects\Abstract\Abstract\obj\Debug\Abstract.exe
+c:\users\mtgro\documents\visual studio 2015\Projects\Abstract\Abstract\obj\Debug\Abstract.pdb
