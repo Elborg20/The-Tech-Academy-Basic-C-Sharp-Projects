@@ -1,0 +1,5 @@
+c:\users\mtgro\documents\visual studio 2015\Projects\OperatorOverload\OperatorOverload\bin\Debug\OperatorOverload.exe
+c:\users\mtgro\documents\visual studio 2015\Projects\OperatorOverload\OperatorOverload\bin\Debug\OperatorOverload.pdb
+c:\users\mtgro\documents\visual studio 2015\Projects\OperatorOverload\OperatorOverload\obj\Debug\OperatorOverload.csprojResolveAssemblyReference.cache
+c:\users\mtgro\documents\visual studio 2015\Projects\OperatorOverload\OperatorOverload\obj\Debug\OperatorOverload.exe
+c:\users\mtgro\documents\visual studio 2015\Projects\OperatorOverload\OperatorOverload\obj\Debug\OperatorOverload.pdb
