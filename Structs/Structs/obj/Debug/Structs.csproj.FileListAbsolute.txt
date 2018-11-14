@@ -1,0 +1,4 @@
+c:\users\mtgro\documents\visual studio 2015\Projects\Structs\Structs\bin\Debug\Structs.exe
+c:\users\mtgro\documents\visual studio 2015\Projects\Structs\Structs\bin\Debug\Structs.pdb
+c:\users\mtgro\documents\visual studio 2015\Projects\Structs\Structs\obj\Debug\Structs.exe
+c:\users\mtgro\documents\visual studio 2015\Projects\Structs\Structs\obj\Debug\Structs.pdb
