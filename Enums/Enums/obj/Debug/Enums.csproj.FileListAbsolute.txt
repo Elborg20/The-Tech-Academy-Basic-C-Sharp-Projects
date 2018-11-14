@@ -1,0 +1,5 @@
+c:\users\mtgro\documents\visual studio 2015\Projects\Enums\Enums\bin\Debug\Enums.exe
+c:\users\mtgro\documents\visual studio 2015\Projects\Enums\Enums\bin\Debug\Enums.pdb
+c:\users\mtgro\documents\visual studio 2015\Projects\Enums\Enums\obj\Debug\Enums.csprojResolveAssemblyReference.cache
+c:\users\mtgro\documents\visual studio 2015\Projects\Enums\Enums\obj\Debug\Enums.exe
+c:\users\mtgro\documents\visual studio 2015\Projects\Enums\Enums\obj\Debug\Enums.pdb
