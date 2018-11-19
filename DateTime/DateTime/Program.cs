@@ -11,8 +11,11 @@ namespace Consoleapp
         static void Main(string[] args)
         {
             DateTime Now = DateTime.Now;
-            Console.WriteLine(Now);          
-            DateTime twoHoursLater = Now.AddHours(2);
+            Console.WriteLine(Now);
+            Console.WriteLine("Please enter an integer:");
+            string hoursLater = Console.ReadLine();
+            int HoursLater = Convert.ToInt32(hoursLater);
+            DateTime twoHoursLater = Now.AddHours(HoursLater);
             Console.WriteLine(twoHoursLater);
             Console.ReadLine();
             
