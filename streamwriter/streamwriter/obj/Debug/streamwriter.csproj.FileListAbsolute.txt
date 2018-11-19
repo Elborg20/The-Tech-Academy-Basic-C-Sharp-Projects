@@ -1,0 +1,5 @@
+c:\users\mtgro\documents\visual studio 2015\Projects\streamwriter\streamwriter\bin\Debug\streamwriter.exe
+c:\users\mtgro\documents\visual studio 2015\Projects\streamwriter\streamwriter\bin\Debug\streamwriter.pdb
+c:\users\mtgro\documents\visual studio 2015\Projects\streamwriter\streamwriter\obj\Debug\streamwriter.csprojResolveAssemblyReference.cache
+c:\users\mtgro\documents\visual studio 2015\Projects\streamwriter\streamwriter\obj\Debug\streamwriter.exe
+c:\users\mtgro\documents\visual studio 2015\Projects\streamwriter\streamwriter\obj\Debug\streamwriter.pdb
