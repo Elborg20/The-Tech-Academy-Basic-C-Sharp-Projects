@@ -1,0 +1,7 @@
+c:\users\mtgro\documents\visual studio 2015\Projects\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe
+c:\users\mtgro\documents\visual studio 2015\Projects\TwentyOne\TwentyOne\bin\Debug\TwentyOne.pdb
+c:\users\mtgro\documents\visual studio 2015\Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csprojResolveAssemblyReference.cache
+c:\users\mtgro\documents\visual studio 2015\Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
+c:\users\mtgro\documents\visual studio 2015\Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
+C:\Users\mtgro\Documents\Visual Studio 2015\Projects\TwentyOne\TwentyOne\bin\Debug\ClassLibrary1.dll
+C:\Users\mtgro\Documents\Visual Studio 2015\Projects\TwentyOne\TwentyOne\bin\Debug\ClassLibrary1.pdb
