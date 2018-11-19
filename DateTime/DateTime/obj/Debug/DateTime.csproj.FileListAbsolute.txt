@@ -1,0 +1,5 @@
+c:\users\mtgro\documents\visual studio 2015\Projects\DateTime\DateTime\obj\Debug\DateTime.csprojResolveAssemblyReference.cache
+c:\users\mtgro\documents\visual studio 2015\Projects\DateTime\DateTime\bin\Debug\DateTime.exe
+c:\users\mtgro\documents\visual studio 2015\Projects\DateTime\DateTime\bin\Debug\DateTime.pdb
+c:\users\mtgro\documents\visual studio 2015\Projects\DateTime\DateTime\obj\Debug\DateTime.exe
+c:\users\mtgro\documents\visual studio 2015\Projects\DateTime\DateTime\obj\Debug\DateTime.pdb
