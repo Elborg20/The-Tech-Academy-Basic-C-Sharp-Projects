@@ -1,0 +1,5 @@
+c:\users\mtgro\documents\visual studio 2015\Projects\UserDOB\UserDOB\obj\Debug\UserDOB.csprojResolveAssemblyReference.cache
+c:\users\mtgro\documents\visual studio 2015\Projects\UserDOB\UserDOB\bin\Debug\UserDOB.exe
+c:\users\mtgro\documents\visual studio 2015\Projects\UserDOB\UserDOB\bin\Debug\UserDOB.pdb
+c:\users\mtgro\documents\visual studio 2015\Projects\UserDOB\UserDOB\obj\Debug\UserDOB.exe
+c:\users\mtgro\documents\visual studio 2015\Projects\UserDOB\UserDOB\obj\Debug\UserDOB.pdb
