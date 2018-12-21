@@ -1,0 +1,5 @@
+C:\Users\mtgro\Documents\Visual Studio 2015\Projects\TwentyOne\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\mtgro\Documents\Visual Studio 2015\Projects\TwentyOne\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\mtgro\Documents\Visual Studio 2015\Projects\TwentyOne\ClassLibrary1\obj\Debug\Casino.csprojResolveAssemblyReference.cache
+C:\Users\mtgro\Documents\Visual Studio 2015\Projects\TwentyOne\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\mtgro\Documents\Visual Studio 2015\Projects\TwentyOne\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
